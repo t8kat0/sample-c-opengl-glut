@@ -1,1 +1,1 @@
-# Sample sample-c-opengl-glut.
+# Sample OpenGL/GLUT source codes.
